@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\ExerciciosCurso\ExContribuinte\bin\Debug\ExContribuinte.exe.config
+C:\Users\Usuario\Desktop\ExerciciosCurso\ExContribuinte\bin\Debug\ExContribuinte.exe
+C:\Users\Usuario\Desktop\ExerciciosCurso\ExContribuinte\bin\Debug\ExContribuinte.pdb
+C:\Users\Usuario\Desktop\ExerciciosCurso\ExContribuinte\obj\Debug\ExContribuinte.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ExerciciosCurso\ExContribuinte\obj\Debug\ExContribuinte.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ExerciciosCurso\ExContribuinte\obj\Debug\ExContribuinte.exe
+C:\Users\Usuario\Desktop\ExerciciosCurso\ExContribuinte\obj\Debug\ExContribuinte.pdb
